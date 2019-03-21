@@ -16,3 +16,6 @@ https://github.com/sptennak/IBM-Coursera-Advanced-Data-Science-Capstone/blob/mas
 
 ## Results and Demo Notebook
 https://github.com/sptennak/IBM-Coursera-Advanced-Data-Science-Capstone/blob/master/IBM%20Coursera%20Advanced%20Data%20Science%20Capstone%20.ipynb
+
+## Model Implementation Demo Video
+https://youtu.be/7LmR5EkM3O0?t=1173
