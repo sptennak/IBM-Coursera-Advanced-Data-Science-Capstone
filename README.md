@@ -9,7 +9,7 @@ Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
 https://www.youtube.com/watch?v=7LmR5EkM3O0
 
 ## ETL Notebook
-https://github.com/sptennak/IBM-Coursera-Advanced-Data-Science-Capstone/blob/master/Capstone%20Project:%20ETL%20Notebook.ipynb
+https://github.com/sptennak/IBM-Coursera-Advanced-Data-Science-Capstone/blob/master/IBM%20Coursera%20Advanced%20Data%20Science%20Capstone%20-%20ETL.ipynb
 
 ## Model Building Notebook
 https://github.com/sptennak/IBM-Coursera-Advanced-Data-Science-Capstone/blob/master/IBM%20Coursera%20Advanced%20Data%20Science%20Capstone%20-%20Modeling.ipynb
